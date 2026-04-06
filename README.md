@@ -200,13 +200,10 @@ This repository focuses on:
   https://arxiv.org/abs/1812.09902
 
 - Friggeri et al., _Egomunities: Exploring Socially Cohesive Person-Based Communities_, 2011  
-  https://arxiv.org/abs/1108.0569
+  https://arxiv.org/abs/1102.2623
 
 - Rozenshtein & Gionis, _Temporal PageRank_, 2016  
-  https://arxiv.org/abs/1607.05853
 
 - Li et al., _Temporal Graph Learning and Zebra Framework_, 2023  
-  https://arxiv.org/abs/2302.08561
 
 - Avrachenkov et al., _Generalized Optimization Framework for Graph-based SSL_, 2012  
-  https://arxiv.org/abs/1202.0932
