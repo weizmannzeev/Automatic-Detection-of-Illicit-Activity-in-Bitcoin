@@ -2,6 +2,10 @@
 
 ### From Ego-Network Transfer Learning to Full-Graph Temporal Models
 
+[Project Page](https://ZeevWeizmann.github.io/Automatic-Detection-of-Illicit-Activity-in-Bitcoin/) |
+[Paper (PDF)](bitcoin-illicit-activity-detection.pdf) |
+[Code](https://github.com/ZeevWeizmann/Automatic-Detection-of-Illicit-Activity-in-Bitcoin)
+
 ---
 
 ## Abstract
@@ -186,3 +190,23 @@ This repository focuses on:
 - structural graph learning
 - transfer across graphs
 - scalability vs expressiveness trade-off
+
+## References
+
+- Maron et al., _Provably Powerful Graph Networks_, NeurIPS 2019  
+  https://arxiv.org/abs/1905.11136
+
+- Maron et al., _Invariant and Equivariant Graph Networks_, ICLR 2019  
+  https://arxiv.org/abs/1812.09902
+
+- Friggeri et al., _Egomunities: Exploring Socially Cohesive Person-Based Communities_, 2011  
+  https://arxiv.org/abs/1108.0569
+
+- Rozenshtein & Gionis, _Temporal PageRank_, 2016  
+  https://arxiv.org/abs/1607.05853
+
+- Li et al., _Temporal Graph Learning and Zebra Framework_, 2023  
+  https://arxiv.org/abs/2302.08561
+
+- Avrachenkov et al., _Generalized Optimization Framework for Graph-based SSL_, 2012  
+  https://arxiv.org/abs/1202.0932
