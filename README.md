@@ -67,9 +67,7 @@ Ego-networks are constructed using a modified BFS:
 - maintains local structure
 - supports large-scale extraction
 
-![Dense ego network](egomunities gnn/Figure_dense_ego.png)
 Each ego-network is a k-hop subgraph around a labeled node.
-/Users/zeevweizmann/projects/hackers/egomunities_gnn/egomunities gnn/Figure_dense_ego.png
 
 These are treated as **independent graph instances**.
 
@@ -87,6 +85,14 @@ These patterns are critical for detection and motivate the use of
 higher-order models.
 
 ---
+
+## Dense Ego-Network Example
+
+<p align="center">
+  <img src="Figure_dense_ego.png" width="400"/>
+</p>
+
+Dense ego-network with triangular motifs indicating coordinated behavior.
 
 ## Models
 
